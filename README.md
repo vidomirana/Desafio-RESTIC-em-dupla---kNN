@@ -25,7 +25,7 @@ A pasta /src contém o código-fonte, /csv contém as bases de dados, enquanto /
 
 
 # Sobre a base de dados
-    No arquivo, basicamente, há 10 atributos. Ele está ordenado com base no rank, que foi decidido com base nos "followers".
+No arquivo, basicamente, há 10 atributos. Ele está ordenado com base no rank, que foi decidido com base nos "followers".
 
 - rank: Classificação do Influenciador com base no número de seguidores que ele possui.
 - channel_info: Nome de usuário do Instagrammer.
