@@ -1,6 +1,28 @@
 # Desafio RESTIC em dupla - kNN
- Repositório para salvar o código fonte e relatório do desafio em dupla
- Dupla: Vitor Miranda e Wallisson Dias
+## Analisando a influência de usuários do Instagram
+ Repositório para salvar o código fonte e relatório do desafio em dupla.
+
+# Autores
+Vitor Miranda e Wallisson Dias.
+Residência em Ciência de Dados - RESTIC 36, organizada pela CEPEDI.
+
+# Descrição do projeto
+O projeto traz uma modelagem do score de influência dos usuários do instagram com mais seguidores em uma época passada.
+A previsão de score pode ajudar empresas a escolher influenciadores para investir em publicidade.
+
+# Instalação das bibliotecas necessárias
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+!pip install scikit-learn
+!pip install imbalanced-learn
+!pip install scikit-optimize
+
+# Estrutura dos arquivos
+* As bases .csv estão sendo puxadas publicamente do Google Sheets, mas serão deixadas também nesse repositório
+A pasta /src contém o código-fonte, /csv contém as bases de dados, enquanto /docs contém o relatório
+
 
 # Sobre a base de dados
     No arquivo, basicamente, há 10 atributos. Ele está ordenado com base no rank, que foi decidido com base nos "followers".
