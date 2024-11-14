@@ -4,7 +4,7 @@
 
 # Autores
 Vitor Miranda e Wallisson Dias.
-Residência em Ciência de Dados - RESTIC 36, organizada pela CEPEDI.
+- Residência em Ciência de Dados - RESTIC 36, organizada pela CEPEDI.
 
 # Descrição do projeto
 O projeto traz uma modelagem do score de influência dos usuários do instagram com mais seguidores em uma época passada.
