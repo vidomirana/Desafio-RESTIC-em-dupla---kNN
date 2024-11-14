@@ -11,13 +11,13 @@ O projeto traz uma modelagem do score de influência dos usuários do instagram 
 A previsão de score pode ajudar empresas a escolher influenciadores para investir em publicidade.
 
 # Instalação das bibliotecas necessárias
-!pip install pandas
-!pip install numpy
-!pip install matplotlib
-!pip install seaborn
-!pip install scikit-learn
-!pip install imbalanced-learn
-!pip install scikit-optimize
+- !pip install pandas
+- !pip install numpy
+- !pip install matplotlib
+- !pip install seaborn
+- !pip install scikit-learn
+- !pip install imbalanced-learn
+- !pip install scikit-optimize
 
 # Estrutura dos arquivos
 * As bases .csv estão sendo puxadas publicamente do Google Sheets, mas serão deixadas também nesse repositório
